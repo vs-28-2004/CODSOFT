@@ -21,7 +21,7 @@ A browser-based Tic-Tac-Toe game built with HTML, CSS, and JavaScript, featuring
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/AI-Tic-Tac-Toe.git
+git clone [https://github.com/your-username/AI-Tic-Tac-Toe.git](https://github.com/vs-28-2004/CODSOFT.git)
 ```
 
 2. Open `index.html` in your browser.
