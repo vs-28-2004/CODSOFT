@@ -1,3 +1,6 @@
+
+
+
 # Movie Recommendation System
 
 ## Overview
@@ -87,3 +90,7 @@ Through this project, I learned:
 ## Conclusion
 
 This project demonstrates a simple content-based recommendation system using movie genres and ratings. It provides users with personalized movie suggestions while showcasing practical applications of Python, data analysis, and web development.
+
+
+
+https://github.com/user-attachments/assets/00d6aae1-eb09-4f0a-85aa-80d17e35e187
